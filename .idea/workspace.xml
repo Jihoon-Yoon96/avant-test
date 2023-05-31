@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/plugin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub1/src/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub1/src/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub1/src/pages/plugin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub1/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub2/src/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub2/src/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub2/src/pages/plugin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sub2/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avant-front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/Btn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/layouts/test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/dayjs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/dialog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/helper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/i18n.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/popup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/vee-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/appOption.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/dialog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/popup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QXyls8xS1f2n8v1afDZMWdsbtc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/avant-front/apps/sub2/src/pages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub2\src\pages" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub1\src\pages" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\plugins" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\store" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub2\src" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub1\src" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\cms\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="" />
+      <created>1685514375955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685514375955</updated>
+      <workItem from="1685514377010" duration="7397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
