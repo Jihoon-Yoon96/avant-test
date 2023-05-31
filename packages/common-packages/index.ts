@@ -8,7 +8,6 @@ export default defineNuxtModule({
             // 공통 컴포넌트
             dirs.push({
                 path: join(__dirname, 'lib/components'),
-                prefix: 'nx3',
             })
             // 공통 레이아웃
             dirs.push({

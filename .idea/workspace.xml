@@ -4,46 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/plugin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/cms/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub1/src/layouts/default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub1/src/pages/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub1/src/pages/plugin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub1/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub2/src/layouts/default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub2/src/pages/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub2/src/pages/plugin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/sub2/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avant-front.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/Btn.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/layouts/test.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/dayjs.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/dialog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/helper.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/i18n.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/popup.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/vee-validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/en/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/sheets/locales/ko/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/appOption.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/dialog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/store/popup.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+    <list default="true" id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="README 수정">
+      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/compo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Dialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Gnb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Lnb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Navigation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/PageHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Popup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Toast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Boolean.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Btn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/DatePicker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Dropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/DropdownItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Field.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Icon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Pagination.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Popup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Select.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Input.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Number.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Text.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Textarea.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Input.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Number.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Text.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Textarea.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/popup/TestA.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/popup/TestB.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common-packages/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common-packages/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common-packages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common-packages/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/avant-front/apps/sub2/src/pages",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/avant-front/packages/common-packages/lib/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,11 +83,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\components" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub2\src\pages" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub1\src\pages" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\plugins" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib" />
-      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\store" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub2\src" />
@@ -109,8 +103,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685514375955</updated>
-      <workItem from="1685514377010" duration="7397000" />
+      <workItem from="1685514377010" duration="9321000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit - MonoRepo 기초 작업">
+      <created>1685523482734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685523482734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit - MonoRepo 기초 작업">
+      <created>1685523500812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685523500812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README 수정">
+      <created>1685523691455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685523691455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +142,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit - MonoRepo 기초 작업" />
+    <MESSAGE value="README 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="README 수정" />
   </component>
 </project>
