@@ -25,7 +25,7 @@ export default defineNuxtModule({
         addPlugin(resolve('lib/plugins/helper.ts'))
         addPlugin(resolve('lib/plugins/dayjs.ts'))
         addPlugin(resolve('lib/plugins/dialog.ts'))
-        addPlugin(resolve('lib/plugins/vee-validate.js'))
+        // addPlugin(resolve('lib/plugins/vee-validate.js'))
         addPlugin(resolve('lib/plugins/i18n.ts'))
         addPlugin(resolve('lib/plugins/popup.ts'))
     },

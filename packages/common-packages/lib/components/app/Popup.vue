@@ -3,6 +3,8 @@
 </template>
 
 <script setup lang="ts">
+import {usePopupStore} from "../../store/popup";
+
 const popupStore = usePopupStore()
 
 </script>

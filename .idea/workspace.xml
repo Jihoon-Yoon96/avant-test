@@ -4,40 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="README 수정">
-      <change afterPath="$PROJECT_DIR$/apps/cms/src/pages/compo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Dialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Gnb.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Lnb.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Navigation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/PageHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Popup.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Toast.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Boolean.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Btn.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/DatePicker.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Dropdown.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/DropdownItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Field.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Icon.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Pagination.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Popup.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/common/Select.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Input.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Number.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Text.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/form/Textarea.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Input.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Number.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Text.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/field/type/Textarea.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/popup/TestA.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/popup/TestB.vue" afterDir="false" />
+    <list default="true" id="9e1fe16d-c9cf-4985-9b99-09abc6dd9b22" name="Changes" comment="공통 컴포넌트 import">
+      <change afterPath="$PROJECT_DIR$/packages/common-packages/lib/plugins/vee-validate/vee-validate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/cms/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cms/nuxt.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cms/src/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/cms/src/pages/compo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cms/src/pages/compo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/common-packages/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common-packages/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/common-packages/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common-packages/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Popup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common-packages/lib/components/app/Popup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common-packages/lib/plugins/vee-validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/cms/src/plugins/vee-validate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +24,15 @@
       <list>
         <option value="TypeScript File" />
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/avant-front/packages/common-packages/lib/components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/avant-front/packages/common-packages/lib/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\components" />
@@ -90,9 +69,11 @@
       <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\plugins" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\packages\common-packages\lib\plugins\i18n" />
+      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\cms\src\plugins" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub2\src" />
       <recent name="C:\Users\user\IdeaProjects\avant-front\apps\sub1\src" />
-      <recent name="C:\Users\user\IdeaProjects\avant-front\apps\cms\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,7 +84,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685514375955</updated>
-      <workItem from="1685514377010" duration="9321000" />
+      <workItem from="1685514377010" duration="10314000" />
+      <workItem from="1685579351380" duration="6937000" />
+      <workItem from="1685603009813" duration="1840000" />
+      <workItem from="1685607714877" duration="2182000" />
+      <workItem from="1685667945802" duration="8252000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit - MonoRepo 기초 작업">
       <created>1685523482734</created>
@@ -126,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685523691455</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="공통 컴포넌트 import">
+      <created>1685525676843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685525676843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit - MonoRepo 기초 작업" />
     <MESSAGE value="README 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="README 수정" />
+    <MESSAGE value="공통 컴포넌트 import" />
+    <option name="LAST_COMMIT_MESSAGE" value="공통 컴포넌트 import" />
   </component>
 </project>

@@ -4,5 +4,8 @@ export default defineNuxtConfig({
         '@pinia/nuxt',
         'common-packages'
     ],
-    srcDir: 'src/'
+    srcDir: 'src/',
+    plugins: [
+        '~/plugins/vee-validate.js'
+    ]
 })

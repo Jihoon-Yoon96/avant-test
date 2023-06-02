@@ -6,6 +6,7 @@
     <h2>여긴 개별 레이아웃</h2>
 ------------------------<br/>
     </nx3-test>
+    <AppPopup />
     <AppDialog/>
 </template>
 
